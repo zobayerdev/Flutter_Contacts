@@ -1,16 +1,6 @@
-# flutter_water_tracker
+# Flutter Contact
+## It's a ostad assignment.
 
-A new Flutter project.
+![Screenshot_2](https://github.com/zobayerdev/Flutter_Contacts/assets/74914169/2947a890-f39c-4b10-afd3-a45db0a7295a)
+![Screenshot_3](https://github.com/zobayerdev/Flutter_Contacts/assets/74914169/0bce26cc-8d19-48ab-849f-f1e14f0c442e)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
